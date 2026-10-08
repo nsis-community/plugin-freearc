@@ -1,0 +1,5 @@
+* text=auto
+
+*.arc binary
+
+/README.md export-ignore
